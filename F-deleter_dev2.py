@@ -1,5 +1,5 @@
 #! python3
-#Program generates config to delete I and B channel
+#Program generates config to delete I (internet service) and B (L3VPN) channel
 
 
 vlan = input('vlan: ')
